@@ -11,9 +11,8 @@ namespace AspProjekt.Models
         {
             return new List<TestModel>
             {
-                new TestModel {ProductName="Nike Sneakers", ProductDesc="Pair of a brand new sneakers", ProductPrice=250},
-                new TestModel {ProductName="Timberland Boots", ProductDesc="Pair of a shoes suitable for rainy weather", ProductPrice=370},
-                new TestModel {ProductName="Kubota flip-flops", ProductDesc="Pair of a very stylish swimming pool flip-flops", ProductPrice=420}
+                new TestModel {ProductName="Oculus Rift", ProductDesc="Oculus Rift is a virtual reality headset (VR headset) that is designed to connect to a high-powered PC to enable advanced computations and graphics rendering.", ProductPrice=449},
+                new TestModel {ProductName="Oculis Quest 2", ProductDesc="Oculus Quest 2 is our most advanced all-in-one VR system yet. Every detail has been engineered to make virtual worlds adapt to your movements, letting you explore awe-inspiring games and experiences with unparalleled freedom. No PC or console required", ProductPrice=349},
             };
 
         }
